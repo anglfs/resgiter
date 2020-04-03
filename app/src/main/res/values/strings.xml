@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">商租宝</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="title_activity_allinformation">Allinformation</string>
+    <string name="title_home">商租宝</string>
+    <string name="title_dashboard">商友</string>
+    <string name="title_notifications">商业学院</string>
+    <string name="title_my">我的</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
